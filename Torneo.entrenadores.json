@@ -1,0 +1,70 @@
+[{
+  "_id": "e001",
+  "nombre": "Carlos López",
+  "apellido": "González",
+  "equipo": "Los Halcones",
+  "rol": "Entrenador Principal"
+},
+{
+  "_id": "e002",
+  "nombre": "Marta Sánchez",
+  "apellido": "Díaz",
+  "equipo": "Las Águilas",
+  "rol": "Entrenadora Principal"
+},
+{
+  "_id": "e003",
+  "nombre": "Luis García",
+  "apellido": "Ramírez",
+  "equipo": "Los Tigres",
+  "rol": "Entrenador Principal"
+},
+{
+  "_id": "e004",
+  "nombre": "Pedro Martínez",
+  "apellido": "Serrano",
+  "equipo": "Los Dragones",
+  "rol": "Entrenador Principal"
+},
+{
+  "_id": "e005",
+  "nombre": "José Pérez",
+  "apellido": "Rodríguez",
+  "equipo": "Las Estrellas",
+  "rol": "Entrenador Principal"
+},
+{
+  "_id": "e006",
+  "nombre": "Ana Gómez",
+  "apellido": "Hernández",
+  "equipo": "Los Halcones",
+  "rol": "Entrenadora Asistente"
+},
+{
+  "_id": "e007",
+  "nombre": "Fernando Castro",
+  "apellido": "Torres",
+  "equipo": "Las Águilas",
+  "rol": "Entrenador Asistente"
+},
+{
+  "_id": "e008",
+  "nombre": "María Ruiz",
+  "apellido": "Fernández",
+  "equipo": "Los Tigres",
+  "rol": "Entrenadora Asistente"
+},
+{
+  "_id": "e009",
+  "nombre": "David Rodríguez",
+  "apellido": "Gómez",
+  "equipo": "Los Dragones",
+  "rol": "Entrenador Asistente"
+},
+{
+  "_id": "e010",
+  "nombre": "Isabel Romero",
+  "apellido": "López",
+  "equipo": "Las Estrellas",
+  "rol": "Entrenadora Asistente"
+}]

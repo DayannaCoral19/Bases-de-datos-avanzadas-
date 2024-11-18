@@ -1,0 +1,90 @@
+[{
+  "_id": "r001",
+  "encuentro_id": "e001",
+  "puntajes": {
+    "Los Halcones": 65,
+    "Las Águilas": 58
+  },
+  "ganador": "Los Halcones"
+},
+{
+  "_id": "r002",
+  "encuentro_id": "e002",
+  "puntajes": {
+    "Los Tigres": 72,
+    "Los Dragones": 60
+  },
+  "ganador": "Los Tigres"
+},
+{
+  "_id": "r003",
+  "encuentro_id": "e003",
+  "puntajes": {
+    "Las Estrellas": 80,
+    "Los Halcones": 75
+  },
+  "ganador": "Las Estrellas"
+},
+{
+  "_id": "r004",
+  "encuentro_id": "e004",
+  "puntajes": {
+    "Las Águilas": 70,
+    "Los Tigres": 68
+  },
+  "ganador": "Las Águilas"
+},
+{
+  "_id": "r005",
+  "encuentro_id": "e005",
+  "puntajes": {
+    "Los Dragones": 85,
+    "Las Estrellas": 82
+  },
+  "ganador": "Los Dragones"
+},
+{
+  "_id": "r006",
+  "encuentro_id": "e006",
+  "puntajes": {
+    "Los Halcones": 90,
+    "Los Tigres": 80
+  },
+  "ganador": "Los Halcones"
+},
+{
+  "_id": "r007",
+  "encuentro_id": "e007",
+  "puntajes": {
+    "Las Águilas": 76,
+    "Los Dragones": 74
+  },
+  "ganador": "Las Águilas"
+},
+{
+  "_id": "r008",
+  "encuentro_id": "e008",
+  "puntajes": {
+    "Los Tigres": 82,
+    "Las Estrellas": 78
+  },
+  "ganador": "Los Tigres"
+},
+{
+  "_id": "r009",
+  "encuentro_id": "e009",
+  "puntajes": {
+    "Los Halcones": 88,
+    "Los Dragones": 72
+  },
+  "ganador": "Los Halcones"
+},
+{
+  "_id": "r010",
+  "encuentro_id": "e010",
+  "puntajes": {
+    "Las Águilas": 79,
+    "Las Estrellas": 77
+  },
+  "ganador": "Las Águilas"
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": "a001",
+  "nombre": "Juan López",
+  "apellido": "Méndez",
+  "experiencia": 5,
+  "disponibilidad": "Sábado y Domingo"
+},
+{
+  "_id": "a002",
+  "nombre": "Sandra Gómez",
+  "apellido": "Díaz",
+  "experiencia": 4,
+  "disponibilidad": "Viernes y Sábado"
+},
+{
+  "_id": "a003",
+  "nombre": "Carlos Pérez",
+  "apellido": "Hernández",
+  "experiencia": 6,
+  "disponibilidad": "Lunes a Domingo"
+},
+{
+  "_id": "a004",
+  "nombre": "Ana Torres",
+  "apellido": "González",
+  "experiencia": 3,
+  "disponibilidad": "Sábado"
+},
+{
+  "_id": "a005",
+  "nombre": "Luis Ramírez",
+  "apellido": "Castro",
+  "experiencia": 8,
+  "disponibilidad": "Lunes a Viernes"
+},
+{
+  "_id": "a006",
+  "nombre": "Isabel Rodríguez",
+  "apellido": "Jiménez",
+  "experiencia": 7,
+  "disponibilidad": "Viernes a Domingo"
+},
+{
+  "_id": "a007",
+  "nombre": "Pedro Ruiz",
+  "apellido": "Serrano",
+  "experiencia": 2,
+  "disponibilidad": "Sábado y Domingo"
+},
+{
+  "_id": "a008",
+  "nombre": "José García",
+  "apellido": "Pérez",
+  "experiencia": 4,
+  "disponibilidad": "Lunes a Domingo"
+},
+{
+  "_id": "a009",
+  "nombre": "María Fernández",
+  "apellido": "Torres",
+  "experiencia": 5,
+  "disponibilidad": "Viernes y Sábado"
+},
+{
+  "_id": "a010",
+  "nombre": "David Martínez",
+  "apellido": "López",
+  "experiencia": 3,
+  "disponibilidad": "Domingo"
+}]

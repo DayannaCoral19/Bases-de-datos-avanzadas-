@@ -1,0 +1,70 @@
+[{
+  "_id": "eq001",
+  "nombre": "Los Halcones",
+  "categoria": "Profesional",
+  "fundacion": "1995",
+  "ciudad": "Ciudad A"
+},
+{
+  "_id": "eq002",
+  "nombre": "Las Águilas",
+  "categoria": "Semi-Profesional",
+  "fundacion": "2000",
+  "ciudad": "Ciudad B"
+},
+{
+  "_id": "eq003",
+  "nombre": "Los Tigres",
+  "categoria": "Amateur",
+  "fundacion": "2010",
+  "ciudad": "Ciudad C"
+},
+{
+  "_id": "eq004",
+  "nombre": "Las Estrellas",
+  "categoria": "Profesional",
+  "fundacion": "1998",
+  "ciudad": "Ciudad D"
+},
+{
+  "_id": "eq005",
+  "nombre": "Los Dragones",
+  "categoria": "Amateur",
+  "fundacion": "2015",
+  "ciudad": "Ciudad E"
+},
+{
+  "_id": "eq006",
+  "nombre": "Los Lobos",
+  "categoria": "Semi-Profesional",
+  "fundacion": "2005",
+  "ciudad": "Ciudad F"
+},
+{
+  "_id": "eq007",
+  "nombre": "Las Panteras",
+  "categoria": "Profesional",
+  "fundacion": "1990",
+  "ciudad": "Ciudad G"
+},
+{
+  "_id": "eq008",
+  "nombre": "Los Guerreros",
+  "categoria": "Amateur",
+  "fundacion": "2018",
+  "ciudad": "Ciudad H"
+},
+{
+  "_id": "eq009",
+  "nombre": "Las Serpientes",
+  "categoria": "Semi-Profesional",
+  "fundacion": "2007",
+  "ciudad": "Ciudad I"
+},
+{
+  "_id": "eq010",
+  "nombre": "Los Átomos",
+  "categoria": "Profesional",
+  "fundacion": "1988",
+  "ciudad": "Ciudad J"
+}]
